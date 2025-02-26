@@ -24,7 +24,7 @@ Dự án **Quản Lý Bán Hàng** là một hệ thống web hỗ trợ quản 
 
 ## 🏗️ Công nghệ sử dụng
 - **Backend**: Laravel (PHP 8+)
-- **Frontend**: Vue.js / React (hoặc HTML, CSS, JavaScript nếu sử dụng giao diện đơn giản)
+- **Frontend**: React
 - **Database**: MySQL
 - **Xác thực**: JWT Authentication
 - **API**: RESTful API
